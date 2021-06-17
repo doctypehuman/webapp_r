@@ -17,28 +17,32 @@ Computer Applications, Web Applications, Linux, Openwrt, Ansible, CI/CD, Python,
 ##### Projects
 
 
-1. **Agent Red** : A core Linux setup with RHEL8. All services to go on boot.Environment setup.
+1. **Agent Red** :
 
 
+ A core linux environment set up complete with VLAN and all services to go on boot. Separate user/group  creation for seaparate services with varying priveleges.
+ 
 
 2. **Mario Bros** : Plumbing for pipelines. Gitlab, Github Actions.
 
-
+ Setup two pipelines using Gitlab and Github Actions. 
 
 
 3. **ShipToSea** : Docker, Podman
 
+ Conversion of repository to a container
 
 
 
-3. **Wanda** : Ansible, Kubernetes
+4. **Wanda** : Ansible, Kubernetes
+
+ Use Ansible to provision Kuberenetes which in turn will deploy the container image to a cluster
 
 
 
-
-
-4. **Monty** : Automation with Python
-
+5. **Monty** : Automation with Python
+  
+  Automate the entire process using python
 
 
 
