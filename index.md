@@ -9,6 +9,9 @@
 
 ##### [cv](/Resume_AF.pdf)
 
+##### [places](/places/places.md)
+
+#### [food](/food/food.md)
 
 ----
 
