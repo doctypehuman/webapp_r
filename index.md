@@ -1,11 +1,15 @@
-----
-
 
 ## Doctype Human     
-##### Prague,CZ
+
+---
+
 [Contact](/contact/contact.md)
-##### email@email.com
+
+##### Prague,CZ
+
 ##### [cv](/Resume_AF.pdf)
+
+
 ----
 
 
