@@ -1,19 +1,9 @@
 
-## Doctype Human     
-
----
-
-[Contact](/contact/contact.md)
+### Doctype Human     
 
 ##### Prague,CZ
 
 ##### [cv](/Resume_AF.pdf)
-
-##### [places](/places/places.md)
-
-#### [food](/food/food.md)
-
-----
 
 
 #### About Me
@@ -25,11 +15,11 @@ Computer Applications, Web Applications, Linux, Openwrt, Ansible, CI/CD, Python,
 ##### Projects
 
 
-1. **Agent Red** :
+1. **[Agent-Red](/projects/agent-red.md)** :
 
 
  A core linux environment set up complete with VLAN and all services to go on boot. Separate user/group  creation for seaparate services with varying priveleges.
- 
+ Core servers up and running. Read __[more]__(/projects/agent-red.md) 
 
 2. **Mario Bros** : Plumbing for pipelines. Gitlab, Github Actions.
 
