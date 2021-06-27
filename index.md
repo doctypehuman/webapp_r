@@ -19,7 +19,7 @@ Computer Applications, Web Applications, Linux, Openwrt, Ansible, CI/CD, Python,
 
 
  A core linux environment set up complete with VLAN and all services to go on boot. Separate user/group  creation for seaparate services with varying priveleges.
- Core servers up and running. Read __[more]__(/projects/agent-red.md) 
+ Core servers up and running. Read [_more_](/projects/agent-red.md) 
 
 2. **Mario Bros** : Plumbing for pipelines. Gitlab, Github Actions.
 
