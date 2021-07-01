@@ -8,7 +8,7 @@
 
 
 
-Usingn open source technologies set up production grade environemnt. 
+Using open source technologies set up production grade environment. 
 
 
 
